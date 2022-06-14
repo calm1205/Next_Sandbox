@@ -8,6 +8,8 @@ const HomePage: React.FC = () => {
 
       <Link href="/about">Go to /about</Link>
       <br />
+      <Link href="/detail">Go to /Detail</Link>
+      <br />
       <Link href="/dynamic/1">Go to /dynamic/1</Link>
     </>
   );
